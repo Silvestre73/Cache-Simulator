@@ -21,6 +21,7 @@ c) Totalmente associativo.
 As políticas de substituição (LRU, FIFO e LFU) da cache devem ser implementadas para
 os tipos de projeto que necessitarem de uma política de substituição;
 
+![](fig1.png)
 
 ## 2. O experimento
 O experimento deverá conter uma análise das taxas de falha e acerto para grupo de arquivo.
